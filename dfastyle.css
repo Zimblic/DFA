@@ -1,0 +1,41 @@
+/*
+	Joshua Oden
+	7 April 2017
+	Cascading Style Sheet for Automata Theory Project.
+*/
+*			{font-family: Arial;}
+body		{   
+				background: #cc0099; /* For browsers that do not support gradients */    
+				background: -webkit-linear-gradient(left top, #990099, #ff0066,#ff3300)fixed; /* For Safari 5.1 to 6.0 */
+				background: -o-linear-gradient(bottom right, #990099, #ff0066,#ff3300)fixed; /* For Opera 11.1 to 12.0 */
+				background: -moz-linear-gradient(bottom right,#990099, #ff0066,#ff3300)fixed; /* For Firefox 3.6 to 15 */
+				background: linear-gradient(to bottom right,  #990099, #ff0066,#ff3300) fixed;
+				text-align: center;
+			}
+			
+.button 	{
+				background-color:  #cc0099;/* Purple */
+				border: none;
+				color: white;
+				text-shadow: 0 0 10px black;
+				padding: 15px 32px;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 16px;
+				margin: 4px 2px;
+				cursor: pointer;
+				border-radius:5px;
+			}
+			
+.button2 	{background-color: #ff6600;} /* Orange */ 
+.button3	{background-color: #000000; border-radius:30px;} /*black rounded button */
+#colorbox	{
+				border-radius:30px; padding: 14px 16px; /*Shadowed and rounded box.*/
+				border: #solid 10px #000;
+				background-color: #F5F5F5;
+				width: 650px;
+				margin-left: auto;
+				margin-right: auto;
+				box-shadow: 10px 10px 5px black;
+			}
