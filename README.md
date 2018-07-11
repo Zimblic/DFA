@@ -9,6 +9,6 @@ This project was implemented to create a deterministic finite state machine for 
 
 A DFA will accept or reject strings of symbols and produce a unique computation for each input string.
 
-The DFA for this language was built using Javascript on a web page and was hosted here on Github. 
+The DFA for this language was built using JavaScript and was hosted here on Github. 
 https://zimblic.github.io/DFA/
 
