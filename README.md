@@ -7,7 +7,7 @@ This project was implemented to create a deterministic finite state machine for 
 - Automaton must be constructed with the minimum number of states required.
 - Input can either be a *'0'* or a *'1'*
 
-A DFA will accept or reject strings of symbols and produce a unique computation for each input string.
+A DFA will accept or reject strings of symbols as part of it's language when the criteria is met and it will produce a unique computation for each input string.
 
 The DFA for this language was built using JavaScript and was hosted here on Github. 
 https://zimblic.github.io/DFA/
